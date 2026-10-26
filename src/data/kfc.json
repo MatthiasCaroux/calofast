@@ -1,0 +1,692 @@
+{
+  "id": "kfc",
+  "nom": "KFC",
+  "pays": "FR",
+  "indicatif": true,
+  "source": {
+    "description": "Valeurs indicatives issues de la base collaborative FatSecret (KFC ne publie pas de tableau lisible en ligne)",
+    "url": "https://www.fatsecret.fr/",
+    "releve_le": "2026-10-26"
+  },
+  "tailles": [
+    {
+      "id": "normal",
+      "nom": "Menu",
+      "description": "Accompagnement moyen + boisson 40 cl"
+    },
+    {
+      "id": "maxi",
+      "nom": "Maxi",
+      "description": "Grand accompagnement + boisson 50 cl"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poulet",
+      "nom": "Poulet"
+    },
+    {
+      "id": "poisson",
+      "nom": "Poisson"
+    },
+    {
+      "id": "veggie",
+      "nom": "Veggie"
+    }
+  ],
+  "produits": {
+    "colonel-original": {
+      "nom": "Colonel Original",
+      "kcal": 607,
+      "proteines": 29.5,
+      "glucides": 56.4,
+      "lipides": 30,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/colonel-original/1-burger"
+    },
+    "colonel-original-bacon": {
+      "nom": "Colonel Original Bacon",
+      "kcal": 698,
+      "proteines": 33.6,
+      "glucides": 77.1,
+      "lipides": 27.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/colonel-original-bacon/1-portion"
+    },
+    "tower-cheese-bacon": {
+      "nom": "Tower Cheese & Bacon",
+      "kcal": 706,
+      "proteines": 29.5,
+      "glucides": 78.5,
+      "lipides": 29.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/tower-cheese-bacon/1-portion"
+    },
+    "tower-spicy": {
+      "nom": "Tower Spicy",
+      "kcal": 678,
+      "proteines": 31.3,
+      "glucides": 72.5,
+      "lipides": 27.5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/tower-spicy/1-burger"
+    },
+    "boxmaster-original": {
+      "nom": "Boxmaster Original",
+      "kcal": 686,
+      "proteines": 30.1,
+      "glucides": 59.2,
+      "lipides": 35.7,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/boxmaster-original/1-portion"
+    },
+    "boxmaster-spicy": {
+      "nom": "Boxmaster Spicy",
+      "kcal": 711,
+      "proteines": 30.8,
+      "glucides": 69.7,
+      "lipides": 32.8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/boxmaster-spicy/1-sandwich"
+    },
+    "massive-boxmaster": {
+      "nom": "Massive Boxmaster",
+      "kcal": 885,
+      "proteines": 37.7,
+      "glucides": 88.4,
+      "lipides": 40.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/massive-boxmaster/1-portion"
+    },
+    "double-kentucky": {
+      "nom": "Double Kentucky Burger",
+      "kcal": 1012,
+      "proteines": 65,
+      "glucides": 89.5,
+      "lipides": 42.6,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/double-kentucky-burger/1-portion"
+    },
+    "kentucky-bbq-bacon": {
+      "nom": "Kentucky BBQ & Bacon",
+      "kcal": 806,
+      "proteines": 42.6,
+      "glucides": 69.3,
+      "lipides": 38.2,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/kentucky-bbq-bacon/1-portion"
+    },
+    "massive-burger": {
+      "nom": "Massive Burger",
+      "kcal": 807,
+      "proteines": 59.3,
+      "glucides": 63.4,
+      "lipides": 34.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/massive-burger/1-portion"
+    },
+    "crispy-burger-chicken": {
+      "nom": "Crispy Burger Chicken",
+      "kcal": 385,
+      "proteines": 19.2,
+      "glucides": 39.6,
+      "lipides": 15.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/crispy-burger-chicken/1-burger"
+    },
+    "krunchy": {
+      "nom": "Krunchy",
+      "kcal": 334,
+      "proteines": 16.9,
+      "glucides": 34.3,
+      "lipides": 13.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/krunchy/1-sandwich"
+    },
+    "itwist": {
+      "nom": "iTwist",
+      "kcal": 276,
+      "proteines": 12.3,
+      "glucides": 28.6,
+      "lipides": 12.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/itwist/1-portion"
+    },
+    "tenders-5": {
+      "nom": "5 Tenders",
+      "kcal": 730,
+      "proteines": 50.6,
+      "glucides": 35,
+      "lipides": 42.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/5-tenders/1-portion"
+    },
+    "hot-wings-8": {
+      "nom": "8 Hot Wings",
+      "kcal": 1295,
+      "proteines": 60.5,
+      "glucides": 46.5,
+      "lipides": 96.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/8-hot-wings/1-portion"
+    },
+    "colonel-original-fish": {
+      "nom": "Colonel Original Fish",
+      "kcal": 515,
+      "proteines": 19.7,
+      "glucides": 56.3,
+      "lipides": 23.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/colonel-original-fish/1-portion"
+    },
+    "crispy-burger-fish": {
+      "nom": "Crispy Burger Fish",
+      "kcal": 382,
+      "proteines": 17.1,
+      "glucides": 47.7,
+      "lipides": 13.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/crispy-burger-fish/1-portion"
+    },
+    "krunchy-fish": {
+      "nom": "Krunchy Fish",
+      "kcal": 279,
+      "proteines": 11.9,
+      "glucides": 34.7,
+      "lipides": 10,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/krunchy-fish/1-portion"
+    },
+    "colonel-original-veggie": {
+      "nom": "Colonel Original Veggie",
+      "kcal": 584,
+      "proteines": 24,
+      "glucides": 62.1,
+      "lipides": 28.6,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/colonel-original-veggie/1-portion"
+    },
+    "colonel-bacon-veggie": {
+      "nom": "Colonel Bacon Veggie",
+      "kcal": 672,
+      "proteines": 29.5,
+      "glucides": 61.7,
+      "lipides": 32,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/colonel-bacon-veggie/1-portion"
+    },
+    "tower-cheese-bacon-veggie": {
+      "nom": "Tower Cheese & Bacon Veggie",
+      "kcal": 684,
+      "proteines": 30,
+      "glucides": 72.9,
+      "lipides": 27.8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/tower-cheese-bacon-veggie/1-portion"
+    },
+    "boxmaster-veggie": {
+      "nom": "Boxmaster Veggie",
+      "kcal": 636,
+      "proteines": 22.2,
+      "glucides": 70.8,
+      "lipides": 30.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/boxmaster-veggie/1-portion"
+    },
+    "kentucky-veggie": {
+      "nom": "Kentucky Veggie Burger",
+      "kcal": 698,
+      "proteines": 34.6,
+      "glucides": 71,
+      "lipides": 28.6,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/kentucky-veggie-burger/1-portion"
+    },
+    "frites-moyennes": {
+      "nom": "Moyennes frites",
+      "kcal": 226,
+      "proteines": 4,
+      "glucides": 33.7,
+      "lipides": 9.2,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/moyennes-frites/1-portion"
+    },
+    "frites-grandes": {
+      "nom": "Grandes frites",
+      "kcal": 316,
+      "proteines": 5.6,
+      "glucides": 47.2,
+      "lipides": 12.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/grandes-frites/1-portion"
+    },
+    "cobette": {
+      "nom": "Cobette épi de maïs",
+      "kcal": 131,
+      "proteines": 5,
+      "glucides": 16.9,
+      "lipides": 3.7,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/cobette-%C3%89pi-de-ma%C3%AFs/1-portion"
+    },
+    "onion-rings-5": {
+      "nom": "Onion Rings x5",
+      "kcal": 195,
+      "proteines": 5.6,
+      "glucides": 20.2,
+      "lipides": 9.7,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/the-onion-rings-x5/1-portion"
+    },
+    "pepsi-40": {
+      "nom": "Pepsi 40 cl",
+      "kcal": 18,
+      "proteines": 0,
+      "glucides": 4,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/pepsi-40cl/1-portion",
+      "note": "Valeur saisie très basse pour un Pepsi sucré, à vérifier"
+    },
+    "pepsi-50": {
+      "nom": "Pepsi 50 cl",
+      "kcal": 22,
+      "proteines": 0,
+      "glucides": 5,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/pepsi-50cl/1-portion",
+      "note": "Valeur saisie très basse pour un Pepsi sucré, à vérifier"
+    },
+    "pepsi-zero-40": {
+      "nom": "Pepsi Zéro Sucres 40 cl",
+      "kcal": 0,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/pepsi-z%C3%A9ro-sucres-40cl/1-portion"
+    },
+    "pepsi-zero-50": {
+      "nom": "Pepsi Zéro Sucres 50 cl",
+      "kcal": 0,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/pepsi-z%C3%A9ro-sucres-50cl/1-portion"
+    },
+    "7up-free-40": {
+      "nom": "7UP Free 40 cl",
+      "kcal": 17,
+      "proteines": 0,
+      "glucides": 4,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/7-up-free-40cl/1-portion"
+    },
+    "7up-free-50": {
+      "nom": "7UP Free 50 cl",
+      "kcal": 22,
+      "proteines": 0,
+      "glucides": 5,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/7-up-free-50cl/1-portion"
+    },
+    "sauce-original": {
+      "nom": "Sauce Original Recipe",
+      "kcal": 90,
+      "proteines": 0.3,
+      "glucides": 2.1,
+      "lipides": 2.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sauce-original-recipe/1-barquette"
+    },
+    "sauce-smoky-bbq": {
+      "nom": "Sauce Smoky BBQ",
+      "kcal": 41,
+      "proteines": 1,
+      "glucides": 10,
+      "lipides": 1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sauce-smoky-bbq/1-portion"
+    },
+    "sauce-creamy-curry": {
+      "nom": "Sauce Creamy Curry",
+      "kcal": 92,
+      "proteines": 1,
+      "glucides": 4.4,
+      "lipides": 8.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sauce-creamy-curry/1-pot"
+    },
+    "sauce-2hot4u": {
+      "nom": "Sauce 2HOT4U",
+      "kcal": 33,
+      "proteines": 0.2,
+      "glucides": 7.8,
+      "lipides": 0.5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sauce-2hot4u/1-pot"
+    },
+    "sauce-sweet-sour": {
+      "nom": "Sauce Sweet & Sour",
+      "kcal": 35,
+      "proteines": 1,
+      "glucides": 8,
+      "lipides": 0,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sauce-sweet-sour/1-portion"
+    },
+    "sundae-caramel": {
+      "nom": "Sundae Caramel",
+      "kcal": 206,
+      "proteines": 2.6,
+      "glucides": 36.2,
+      "lipides": 5.6,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sundae-caramel/1-portion"
+    },
+    "sundae-chocolat-noisette": {
+      "nom": "Sundae Chocolat Noisette",
+      "kcal": 276,
+      "proteines": 3.5,
+      "glucides": 34.3,
+      "lipides": 14.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sundae-chocolat-noisette/1-portion"
+    },
+    "sundae-fraise": {
+      "nom": "Sundae Fraise",
+      "kcal": 201,
+      "proteines": 2.7,
+      "glucides": 36.2,
+      "lipides": 4.8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sundae-fraise/1-portion"
+    },
+    "sundae-vanille": {
+      "nom": "Sundae Vanille",
+      "kcal": 148,
+      "proteines": 2.8,
+      "glucides": 24,
+      "lipides": 5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/sundae-vanille/1-portion"
+    },
+    "crousti-kream-nutella": {
+      "nom": "Crousti'Kream Nutella",
+      "kcal": 369,
+      "proteines": 5.2,
+      "glucides": 54.4,
+      "lipides": 15.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/crousti-kream-nutella/1-portion"
+    },
+    "crousti-kream-snickers": {
+      "nom": "Crousti'Kream Snickers",
+      "kcal": 380,
+      "proteines": 7.6,
+      "glucides": 53.3,
+      "lipides": 15.5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/croustikream-snickers/1-portion"
+    },
+    "cookie-double-choco": {
+      "nom": "Cookie Double Choco",
+      "kcal": 326,
+      "proteines": 3.4,
+      "glucides": 42.6,
+      "lipides": 15.5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/cookie-double-choco/1-portion"
+    },
+    "donut-nutella": {
+      "nom": "Donut au Nutella",
+      "kcal": 265,
+      "proteines": 4.9,
+      "glucides": 32,
+      "lipides": 12.8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/donut-au-nutella/1-portion"
+    },
+    "muffin-fondant-noisette": {
+      "nom": "Muffin Fondant Noisette",
+      "kcal": 438,
+      "proteines": 5.7,
+      "glucides": 47,
+      "lipides": 25.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/kfc/muffin-fondant-noisette/1-portion"
+    }
+  },
+  "menus": [
+    {
+      "id": "colonel-original",
+      "nom": "Colonel Original",
+      "categorie": "poulet",
+      "plat": "colonel-original"
+    },
+    {
+      "id": "colonel-original-bacon",
+      "nom": "Colonel Original Bacon",
+      "categorie": "poulet",
+      "plat": "colonel-original-bacon"
+    },
+    {
+      "id": "tower-cheese-bacon",
+      "nom": "Tower Cheese & Bacon",
+      "categorie": "poulet",
+      "plat": "tower-cheese-bacon"
+    },
+    {
+      "id": "tower-spicy",
+      "nom": "Tower Spicy",
+      "categorie": "poulet",
+      "plat": "tower-spicy"
+    },
+    {
+      "id": "boxmaster-original",
+      "nom": "Boxmaster Original",
+      "categorie": "poulet",
+      "plat": "boxmaster-original"
+    },
+    {
+      "id": "boxmaster-spicy",
+      "nom": "Boxmaster Spicy",
+      "categorie": "poulet",
+      "plat": "boxmaster-spicy"
+    },
+    {
+      "id": "massive-boxmaster",
+      "nom": "Massive Boxmaster",
+      "categorie": "poulet",
+      "plat": "massive-boxmaster"
+    },
+    {
+      "id": "double-kentucky",
+      "nom": "Double Kentucky Burger",
+      "categorie": "poulet",
+      "plat": "double-kentucky"
+    },
+    {
+      "id": "kentucky-bbq-bacon",
+      "nom": "Kentucky BBQ & Bacon",
+      "categorie": "poulet",
+      "plat": "kentucky-bbq-bacon"
+    },
+    {
+      "id": "massive-burger",
+      "nom": "Massive Burger",
+      "categorie": "poulet",
+      "plat": "massive-burger"
+    },
+    {
+      "id": "crispy-burger-chicken",
+      "nom": "Crispy Burger Chicken",
+      "categorie": "poulet",
+      "plat": "crispy-burger-chicken"
+    },
+    {
+      "id": "krunchy",
+      "nom": "Krunchy",
+      "categorie": "poulet",
+      "plat": "krunchy"
+    },
+    {
+      "id": "itwist",
+      "nom": "iTwist",
+      "categorie": "poulet",
+      "plat": "itwist"
+    },
+    {
+      "id": "tenders-5",
+      "nom": "5 Tenders",
+      "categorie": "poulet",
+      "plat": "tenders-5"
+    },
+    {
+      "id": "hot-wings-8",
+      "nom": "8 Hot Wings",
+      "categorie": "poulet",
+      "plat": "hot-wings-8"
+    },
+    {
+      "id": "colonel-original-fish",
+      "nom": "Colonel Original Fish",
+      "categorie": "poisson",
+      "plat": "colonel-original-fish"
+    },
+    {
+      "id": "crispy-burger-fish",
+      "nom": "Crispy Burger Fish",
+      "categorie": "poisson",
+      "plat": "crispy-burger-fish"
+    },
+    {
+      "id": "krunchy-fish",
+      "nom": "Krunchy Fish",
+      "categorie": "poisson",
+      "plat": "krunchy-fish"
+    },
+    {
+      "id": "colonel-original-veggie",
+      "nom": "Colonel Original Veggie",
+      "categorie": "veggie",
+      "plat": "colonel-original-veggie"
+    },
+    {
+      "id": "colonel-bacon-veggie",
+      "nom": "Colonel Bacon Veggie",
+      "categorie": "veggie",
+      "plat": "colonel-bacon-veggie"
+    },
+    {
+      "id": "tower-cheese-bacon-veggie",
+      "nom": "Tower Cheese & Bacon Veggie",
+      "categorie": "veggie",
+      "plat": "tower-cheese-bacon-veggie"
+    },
+    {
+      "id": "boxmaster-veggie",
+      "nom": "Boxmaster Veggie",
+      "categorie": "veggie",
+      "plat": "boxmaster-veggie"
+    },
+    {
+      "id": "kentucky-veggie",
+      "nom": "Kentucky Veggie Burger",
+      "categorie": "veggie",
+      "plat": "kentucky-veggie"
+    }
+  ],
+  "etapes": [
+    {
+      "id": "accompagnement",
+      "nom": "Accompagnement",
+      "obligatoire": true,
+      "options": [
+        {
+          "id": "frites",
+          "nom": "Frites",
+          "parTaille": {
+            "normal": "frites-moyennes",
+            "maxi": "frites-grandes"
+          }
+        },
+        {
+          "id": "cobette",
+          "nom": "Cobette épi de maïs",
+          "parTaille": {
+            "normal": "cobette",
+            "maxi": "cobette"
+          }
+        },
+        {
+          "id": "onion-rings",
+          "nom": "Onion Rings x5",
+          "parTaille": {
+            "normal": "onion-rings-5",
+            "maxi": "onion-rings-5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boisson",
+      "nom": "Boisson",
+      "obligatoire": true,
+      "options": [
+        {
+          "id": "pepsi",
+          "nom": "Pepsi",
+          "parTaille": {
+            "normal": "pepsi-40",
+            "maxi": "pepsi-50"
+          }
+        },
+        {
+          "id": "pepsi-zero",
+          "nom": "Pepsi Zéro Sucres",
+          "parTaille": {
+            "normal": "pepsi-zero-40",
+            "maxi": "pepsi-zero-50"
+          }
+        },
+        {
+          "id": "7up-free",
+          "nom": "7UP Free",
+          "parTaille": {
+            "normal": "7up-free-40",
+            "maxi": "7up-free-50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sauce",
+      "nom": "Sauces",
+      "obligatoire": false,
+      "multiple": true,
+      "options": [
+        {
+          "id": "sauce-original",
+          "produit": "sauce-original"
+        },
+        {
+          "id": "sauce-smoky-bbq",
+          "produit": "sauce-smoky-bbq"
+        },
+        {
+          "id": "sauce-creamy-curry",
+          "produit": "sauce-creamy-curry"
+        },
+        {
+          "id": "sauce-2hot4u",
+          "produit": "sauce-2hot4u"
+        },
+        {
+          "id": "sauce-sweet-sour",
+          "produit": "sauce-sweet-sour"
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "nom": "Dessert",
+      "obligatoire": false,
+      "options": [
+        {
+          "id": "sundae-caramel",
+          "produit": "sundae-caramel"
+        },
+        {
+          "id": "sundae-chocolat-noisette",
+          "produit": "sundae-chocolat-noisette"
+        },
+        {
+          "id": "sundae-fraise",
+          "produit": "sundae-fraise"
+        },
+        {
+          "id": "sundae-vanille",
+          "produit": "sundae-vanille"
+        },
+        {
+          "id": "crousti-kream-nutella",
+          "produit": "crousti-kream-nutella"
+        },
+        {
+          "id": "crousti-kream-snickers",
+          "produit": "crousti-kream-snickers"
+        },
+        {
+          "id": "cookie-double-choco",
+          "produit": "cookie-double-choco"
+        },
+        {
+          "id": "donut-nutella",
+          "produit": "donut-nutella"
+        },
+        {
+          "id": "muffin-fondant-noisette",
+          "produit": "muffin-fondant-noisette"
+        }
+      ]
+    }
+  ]
+}

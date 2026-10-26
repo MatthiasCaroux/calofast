@@ -1,0 +1,172 @@
+{
+  "id": "burger-king",
+  "nom": "Burger King",
+  "pays": "FR",
+  "source": {
+    "description": "Fiches produits officielles burgerking.fr (valeurs par portion)",
+    "url": "https://www.burgerking.fr/carte",
+    "releve_le": "2026-10-25"
+  },
+  "tailles": [
+    { "id": "normal", "nom": "Normal", "description": "Accompagnement moyen + boisson 40 cl" },
+    { "id": "maxi", "nom": "Maxi", "description": "Grand accompagnement + boisson 50 cl" }
+  ],
+  "categories": [
+    { "id": "boeuf", "nom": "Bœuf" },
+    { "id": "poulet", "nom": "Poulet" },
+    { "id": "poisson", "nom": "Poisson" },
+    { "id": "veggie", "nom": "Veggie" }
+  ],
+  "produits": {
+    "whopper": { "nom": "Whopper", "kcal": 629, "proteines": 28, "glucides": 49, "lipides": 35, "sucres": 12, "sel": 2.5, "url": "https://www.burgerking.fr/produit/whopper" },
+    "double-whopper-cheese": { "nom": "Double Whopper Cheese", "kcal": 934, "proteines": 52, "glucides": 49, "lipides": 58, "sucres": 12, "sel": 3.5, "url": "https://www.burgerking.fr/produit/double-whopper-cheese" },
+    "big-king": { "nom": "Big King", "kcal": 482, "proteines": 27, "glucides": 30, "lipides": 28, "sucres": 6.3, "sel": 2.4, "url": "https://www.burgerking.fr/produit/big-king" },
+    "big-king-xxl": { "nom": "Big King XXL", "kcal": 964, "proteines": 56, "glucides": 49, "lipides": 59, "sucres": 12, "sel": 4.4, "url": "https://www.burgerking.fr/produit/big-king-xxl" },
+    "steakhouse": { "nom": "Steakhouse", "kcal": 829, "proteines": 37, "glucides": 54, "lipides": 51, "sucres": 15, "sel": 3.3, "url": "https://www.burgerking.fr/produit/steakhouse" },
+    "double-steakhouse": { "nom": "Double Steakhouse", "kcal": 1134, "proteines": 61, "glucides": 55, "lipides": 74, "sucres": 16, "sel": 4.3, "url": "https://www.burgerking.fr/produit/double-steakhouse" },
+    "double-cheese-bacon": { "nom": "Double Cheese Bacon", "kcal": 482, "proteines": 29, "glucides": 33, "lipides": 25, "sucres": 7.6, "sel": 2.2, "url": "https://www.burgerking.fr/produit/double-cheese-bacon" },
+    "double-cheese-bacon-xxl": { "nom": "Double Cheese Bacon XXL", "kcal": 932, "proteines": 60, "glucides": 48, "lipides": 55, "sucres": 11, "sel": 4.7, "url": "https://www.burgerking.fr/produit/double-cheese-bacon-xxl-dpl" },
+    "cheeseburger": { "nom": "Cheeseburger", "kcal": 305, "proteines": 16, "glucides": 29, "lipides": 13, "sucres": 6.2, "sel": 1.7, "url": "https://www.burgerking.fr/produit/cheeseburger-cc" },
+    "hamburger": { "nom": "Hamburger", "kcal": 266, "proteines": 14, "glucides": 29, "lipides": 10, "sucres": 5.8, "sel": 1.3, "url": "https://www.burgerking.fr/produit/hamburger" },
+    "master-raclette-fumee": { "nom": "Master Raclette Fumée", "kcal": 841, "proteines": 43, "glucides": 50, "lipides": 53, "sucres": 11, "sel": 3.5, "url": "https://www.burgerking.fr/produit/master-montagnard" },
+    "master-raclette-poivre": { "nom": "Master Raclette Poivre", "kcal": 898, "proteines": 43, "glucides": 49, "lipides": 60, "sucres": 11, "sel": 3.4, "url": "https://www.burgerking.fr/produit/master-montagnard-poivre" },
+    "master-raclette-ail-des-ours": { "nom": "Master Raclette Ail des Ours", "kcal": 885, "proteines": 43, "glucides": 49, "lipides": 58, "sucres": 11, "sel": 3.7, "url": "https://www.burgerking.fr/produit/master-montagnard-poivre-ee7c344d" },
+    "master-rosti-raclette-poivre": { "nom": "Master Rösti Raclette Poivre", "kcal": 1155, "proteines": 47, "glucides": 70, "lipides": 77, "sucres": 14, "sel": 4.2, "url": "https://www.burgerking.fr/produit/master-rosti-montagnard-caabc6e2" },
+    "cbk": { "nom": "CBK", "kcal": 795, "proteines": 30, "glucides": 62, "lipides": 46, "sucres": 10, "sel": 3.6, "url": "https://www.burgerking.fr/produit/cbk-simple" },
+    "chicken-louisiane-steakhouse": { "nom": "Chicken Louisiane Steakhouse", "kcal": 846, "proteines": 38, "glucides": 68, "lipides": 46, "sucres": 15, "sel": 4.6, "url": "https://www.burgerking.fr/produit/chicken-louisiane-steakhouse-premium" },
+    "smoky-chicken": { "nom": "Smoky Chicken", "kcal": 585, "proteines": 19, "glucides": 42, "lipides": 37, "sucres": 6.2, "sel": 2.2, "url": "https://www.burgerking.fr/produit/smoky-chicken" },
+    "master-poulet-raclette-poivre": { "nom": "Master Poulet Raclette Poivre", "kcal": 894, "proteines": 39, "glucides": 64, "lipides": 54, "sucres": 11, "sel": 5.0, "url": "https://www.burgerking.fr/produit/master-montagnard-poulet-e1197846" },
+    "king-nuggets-7": { "nom": "King Nuggets (7)", "kcal": 260, "proteines": 15, "glucides": 25, "lipides": 11, "sucres": 0.8, "sel": 1.4, "url": "https://www.burgerking.fr/produit/king-nuggets-7" },
+    "king-nuggets-10": { "nom": "King Nuggets (10)", "kcal": 393, "proteines": 24, "glucides": 33, "lipides": 19, "sucres": null, "sel": 2.2, "url": "https://www.burgerking.fr/produit/king-nuggets-10", "note": "Sucres affichés à 30 g sur le site, valeur manifestement erronée, ignorée" },
+    "big-fish": { "nom": "Big Fish", "kcal": 484, "proteines": 20, "glucides": 41, "lipides": 26, "sucres": 8.1, "sel": 2.5, "url": "https://www.burgerking.fr/produit/big-fish" },
+    "veggie-whopper": { "nom": "Veggie Whopper", "kcal": 595, "proteines": 27, "glucides": 57, "lipides": 29, "sucres": 13, "sel": 3.1, "url": "https://www.burgerking.fr/produit/veggie-whoppe" },
+    "veggie-steakhouse": { "nom": "Veggie Steakhouse", "kcal": 788, "proteines": 33, "glucides": 64, "lipides": 44, "sucres": 15, "sel": 3.7, "url": "https://www.burgerking.fr/produit/veggie-steakhouse" },
+    "veggie-chicken-louisiane-steakhouse": { "nom": "Veggie Chicken Louisiane Steakhouse", "kcal": 783, "proteines": 24, "glucides": 61, "lipides": 45, "sucres": 12, "sel": 4.5, "url": "https://www.burgerking.fr/produit/veggie-chicken-louisiane-steakhouse" },
+
+    "frites-petites": { "nom": "Petites frites", "kcal": 239, "proteines": 3.0, "glucides": 36, "lipides": 10, "sucres": 0, "sel": 0.36, "url": "https://www.burgerking.fr/produit/petit-frites" },
+    "frites-moyennes": { "nom": "Moyennes frites", "kcal": 309, "proteines": 3.8, "glucides": 46, "lipides": 13, "sucres": 0, "sel": 0.46, "url": "https://www.burgerking.fr/produit/moyen-frites" },
+    "frites-grandes": { "nom": "Grandes frites", "kcal": 423, "proteines": 5.3, "glucides": 63, "lipides": 18, "sucres": 0, "sel": 0.64, "url": "https://www.burgerking.fr/produit/grd-frites" },
+    "gaufrette-moyenne": { "nom": "Moyenne Gaufrette Fries", "kcal": 247, "proteines": 2.4, "glucides": 21, "lipides": 11, "sucres": 0, "sel": 0.67, "url": "https://www.burgerking.fr/produit/waffle-fries-dpl" },
+    "gaufrette-grande": { "nom": "Grande Gaufrette Fries", "kcal": 349, "proteines": 4.3, "glucides": 37, "lipides": 20, "sucres": 0, "sel": 1.2, "url": "https://www.burgerking.fr/produit/grandes-waffle-fries" },
+    "onion-rings-4": { "nom": "Onion Rings (4)", "kcal": 167, "proteines": 2.9, "glucides": 23, "lipides": 7.6, "sucres": 1.9, "sel": 0.70, "url": "https://www.burgerking.fr/produit/pt-4-onion-rings" },
+    "onion-rings-6": { "nom": "Onion Rings (6)", "kcal": 251, "proteines": 4.3, "glucides": 35, "lipides": 11, "sucres": 2.8, "sel": 1.1, "url": "https://www.burgerking.fr/produit/moyen-6-oignon" },
+    "onion-rings-9": { "nom": "Onion Rings (9)", "kcal": 377, "proteines": 6.5, "glucides": 52, "lipides": 17, "sucres": 4.2, "sel": 1.6, "url": "https://www.burgerking.fr/produit/grand-9-oignon" },
+    "king-nuggets-4": { "nom": "King Nuggets (4)", "kcal": 174, "proteines": 10, "glucides": 17, "lipides": 7.2, "sucres": 0.6, "sel": 0.9, "url": "https://www.burgerking.fr/produit/nuggets-4" },
+
+    "coca-cola-25": { "nom": "Coca-Cola 25 cl", "kcal": 105, "proteines": 0, "glucides": 27, "lipides": 0, "sucres": 27, "sel": 0, "url": "https://www.burgerking.fr/produit/petit-coca" },
+    "coca-cola-40": { "nom": "Coca-Cola 40 cl", "kcal": 168, "proteines": 0, "glucides": 42, "lipides": 0, "sucres": 42, "sel": 0, "url": "https://www.burgerking.fr/produit/coca-cola" },
+    "coca-cola-50": { "nom": "Coca-Cola 50 cl", "kcal": 210, "proteines": 0, "glucides": 53, "lipides": 0, "sucres": 53, "sel": 0, "url": "https://www.burgerking.fr/produit/grand-coca" },
+    "coca-zero-40": { "nom": "Coca-Cola Zéro Sucres 40 cl", "kcal": 1, "proteines": 0, "glucides": 0, "lipides": 0, "sucres": 0, "sel": 0.12, "url": "https://www.burgerking.fr/produit/moyen-coca-zero" },
+    "coca-zero-50": { "nom": "Coca-Cola Zéro Sucres 50 cl", "kcal": 2, "proteines": 0, "glucides": 0, "lipides": 0, "sucres": 0, "sel": 0.15, "url": "https://www.burgerking.fr/produit/grand-coca-zero" },
+    "fanta-zero-40": { "nom": "Fanta sans sucres 40 cl", "kcal": 8, "proteines": 0, "glucides": 1.3, "lipides": 0, "sucres": 1.3, "sel": 0.24, "url": "https://www.burgerking.fr/produit/moyen-fanta-nouvelle-recette" },
+    "fanta-zero-50": { "nom": "Fanta sans sucres 50 cl", "kcal": 10, "proteines": 0, "glucides": 1.6, "lipides": 0, "sucres": 1.6, "sel": 0.30, "url": "https://www.burgerking.fr/produit/grand-fanta-nouvelle-recette" },
+    "sprite-zero-40": { "nom": "Sprite sans sucres 40 cl", "kcal": 5, "proteines": 0, "glucides": 0, "lipides": 0, "sucres": 0, "sel": 0.16, "url": "https://www.burgerking.fr/produit/moyen-sprite-nouvelle-recette" },
+    "sprite-zero-50": { "nom": "Sprite sans sucres 50 cl", "kcal": 6, "proteines": 0, "glucides": 0, "lipides": 0, "sucres": 0, "sel": 0.20, "url": "https://www.burgerking.fr/produit/grand-sprite-nouvelle-recette" },
+    "oasis-40": { "nom": "Oasis Tropical 40 cl", "kcal": 26, "proteines": 0, "glucides": 4.6, "lipides": 0, "sucres": 4.4, "sel": 0.05, "url": "https://www.burgerking.fr/produit/oasis-40cl" },
+    "oasis-50": { "nom": "Oasis Tropical 50 cl", "kcal": 32, "proteines": 0, "glucides": 5.8, "lipides": 0, "sucres": 5.5, "sel": 0.07, "url": "https://www.burgerking.fr/produit/oasis-50cl" },
+    "fuze-tea-40": { "nom": "Fuze Tea Pêche Hibiscus 40 cl", "kcal": 68, "proteines": 0, "glucides": 16, "lipides": 0, "sucres": 16, "sel": 0.08, "url": "https://www.burgerking.fr/produit/fuzetea-40cl" },
+    "fuze-tea-50": { "nom": "Fuze Tea Pêche Hibiscus 50 cl", "kcal": 85, "proteines": 0, "glucides": 20, "lipides": 0, "sucres": 20, "sel": 0.10, "url": "https://www.burgerking.fr/produit/fuzetea-50cl" },
+    "vittel-50": { "nom": "Vittel 50 cl", "kcal": 0, "proteines": 0, "glucides": 0, "lipides": 0, "sucres": 0, "sel": 0, "url": "https://www.burgerking.fr/produit/vittel" },
+
+    "sauce-ketchup": { "nom": "Ketchup", "kcal": 10, "proteines": 0, "glucides": 2.3, "lipides": 0, "sucres": 2.3, "sel": 0.18, "url": "https://www.burgerking.fr/produit/sauce-ketchup" },
+    "sauce-frites": { "nom": "Sauce pour les frites (mayonnaise)", "kcal": 66, "proteines": 0, "glucides": 0, "lipides": 7.2, "sucres": 0, "sel": 0.11, "url": "https://www.burgerking.fr/produit/sauce-mayonnaise" },
+    "sauce-barbecue": { "nom": "Barbecue", "kcal": 35, "proteines": 0, "glucides": 7.8, "lipides": 0, "sucres": 7.0, "sel": 0.3, "url": "https://www.burgerking.fr/produit/sauce-barbecue" },
+    "sauce-1954": { "nom": "Sauce 1954", "kcal": 162, "proteines": 0, "glucides": 1.2, "lipides": 17, "sucres": 0.9, "sel": 0.33, "url": "https://www.burgerking.fr/produit/sauce-1954" },
+    "sauce-spicy-andalouse": { "nom": "Spicy Andalouse", "kcal": 157, "proteines": 0.3, "glucides": 1.6, "lipides": 17, "sucres": 1.3, "sel": 0.43, "url": "https://www.burgerking.fr/produit/sauce-spicy-andalouse" },
+    "sauce-moutarde-miel": { "nom": "Moutarde Miel", "kcal": 144, "proteines": 0, "glucides": 3.5, "lipides": 14, "sucres": 3.3, "sel": 0.40, "url": "https://www.burgerking.fr/produit/sauce-moutarde-miel" },
+    "sauce-creamy-ranch": { "nom": "Creamy Ranch", "kcal": 163, "proteines": 0, "glucides": 1.4, "lipides": 17, "sucres": 1.0, "sel": 0.41, "url": "https://www.burgerking.fr/produit/sauce-creamy-ranch" },
+    "sauce-chili-cheese": { "nom": "Chili goût Cheese", "kcal": 152, "proteines": 0, "glucides": 2.2, "lipides": 16, "sucres": 1.4, "sel": 0.4, "url": "https://www.burgerking.fr/produit/sauce-chili-cheese" },
+    "sauce-smoky-bacon": { "nom": "Smoky Bacon Flavor", "kcal": 161, "proteines": 0.5, "glucides": 1.4, "lipides": 17, "sucres": 0.9, "sel": 0.43, "url": "https://www.burgerking.fr/produit/sauce-smoky-bacon-flavor" },
+    "sauce-cheddar-xxl": { "nom": "Cheddar XXL", "kcal": 163, "proteines": 5.9, "glucides": 5.9, "lipides": 13, "sucres": 4.3, "sel": 1.7, "url": "https://www.burgerking.fr/produit/sauce-cheddar-xxl" },
+
+    "king-sundae-chocolat": { "nom": "King Sundae Chocolat", "kcal": 196, "proteines": 3.8, "glucides": 33, "lipides": 4.5, "sucres": 28, "sel": 0.48, "url": "https://www.burgerking.fr/produit/king-sundae-chocolat" },
+    "king-sundae-caramel": { "nom": "King Sundae Caramel", "kcal": 177, "proteines": 4, "glucides": 30, "lipides": 4.6, "sucres": 26, "sel": 0.51, "url": "https://www.burgerking.fr/produit/king-sundae-caramel-5dd7d2c8" },
+    "king-sundae-vanille": { "nom": "King Sundae Vanille", "kcal": 172, "proteines": 3.8, "glucides": 29, "lipides": 4.6, "sucres": 26, "sel": 0.47, "url": "https://www.burgerking.fr/produit/king-sundae-vanille" },
+    "king-fusion-nutella": { "nom": "King Fusion Nutella", "kcal": 417, "proteines": 6.8, "glucides": 57, "lipides": 17, "sucres": 48, "sel": 0.62, "url": "https://www.burgerking.fr/produit/king-fusion-au-nutella-5feb57ce" },
+    "king-fusion-snickers": { "nom": "King Fusion Snickers", "kcal": 422, "proteines": 8.5, "glucides": 64, "lipides": 13, "sucres": 54, "sel": 0.81, "url": "https://www.burgerking.fr/produit/king-fusion-snickers-2511b25b" },
+    "king-fusion-lotus": { "nom": "King Fusion Lotus Biscoff", "kcal": 424, "proteines": 6.1, "glucides": 54, "lipides": 20, "sucres": 43, "sel": 0.82, "url": "https://www.burgerking.fr/produit/king-fusion-speculoos-lotus-biscoff" },
+    "king-fusion-praline": { "nom": "King Fusion Praliné", "kcal": 532, "proteines": 11, "glucides": 59, "lipides": 23, "sucres": 50, "sel": 0.51, "url": "https://www.burgerking.fr/produit/king-fusion-des-chefs" }
+  },
+  "menus": [
+    { "id": "whopper", "nom": "Whopper", "categorie": "boeuf", "plat": "whopper" },
+    { "id": "double-whopper-cheese", "nom": "Double Whopper Cheese", "categorie": "boeuf", "plat": "double-whopper-cheese" },
+    { "id": "big-king", "nom": "Big King", "categorie": "boeuf", "plat": "big-king" },
+    { "id": "big-king-xxl", "nom": "Big King XXL", "categorie": "boeuf", "plat": "big-king-xxl" },
+    { "id": "steakhouse", "nom": "Steakhouse", "categorie": "boeuf", "plat": "steakhouse" },
+    { "id": "double-steakhouse", "nom": "Double Steakhouse", "categorie": "boeuf", "plat": "double-steakhouse" },
+    { "id": "double-cheese-bacon", "nom": "Double Cheese Bacon", "categorie": "boeuf", "plat": "double-cheese-bacon" },
+    { "id": "double-cheese-bacon-xxl", "nom": "Double Cheese Bacon XXL", "categorie": "boeuf", "plat": "double-cheese-bacon-xxl" },
+    { "id": "master-raclette-fumee", "nom": "Master Raclette Fumée", "categorie": "boeuf", "plat": "master-raclette-fumee", "edition_limitee": true },
+    { "id": "master-raclette-poivre", "nom": "Master Raclette Poivre", "categorie": "boeuf", "plat": "master-raclette-poivre", "edition_limitee": true },
+    { "id": "master-raclette-ail-des-ours", "nom": "Master Raclette Ail des Ours", "categorie": "boeuf", "plat": "master-raclette-ail-des-ours", "edition_limitee": true },
+    { "id": "master-rosti-raclette-poivre", "nom": "Master Rösti Raclette Poivre", "categorie": "boeuf", "plat": "master-rosti-raclette-poivre", "edition_limitee": true },
+    { "id": "cbk", "nom": "CBK", "categorie": "poulet", "plat": "cbk" },
+    { "id": "chicken-louisiane-steakhouse", "nom": "Chicken Louisiane Steakhouse", "categorie": "poulet", "plat": "chicken-louisiane-steakhouse" },
+    { "id": "smoky-chicken", "nom": "Smoky Chicken", "categorie": "poulet", "plat": "smoky-chicken" },
+    { "id": "master-poulet-raclette-poivre", "nom": "Master Poulet Raclette Poivre", "categorie": "poulet", "plat": "master-poulet-raclette-poivre", "edition_limitee": true },
+    { "id": "king-nuggets-7", "nom": "King Nuggets (7)", "categorie": "poulet", "plat": "king-nuggets-7" },
+    { "id": "king-nuggets-10", "nom": "King Nuggets (10)", "categorie": "poulet", "plat": "king-nuggets-10" },
+    { "id": "big-fish", "nom": "Big Fish", "categorie": "poisson", "plat": "big-fish" },
+    { "id": "veggie-whopper", "nom": "Veggie Whopper", "categorie": "veggie", "plat": "veggie-whopper" },
+    { "id": "veggie-steakhouse", "nom": "Veggie Steakhouse", "categorie": "veggie", "plat": "veggie-steakhouse" },
+    { "id": "veggie-chicken-louisiane-steakhouse", "nom": "Veggie Chicken Louisiane Steakhouse", "categorie": "veggie", "plat": "veggie-chicken-louisiane-steakhouse" }
+  ],
+  "etapes": [
+    {
+      "id": "accompagnement",
+      "nom": "Accompagnement",
+      "obligatoire": true,
+      "options": [
+        { "id": "frites", "nom": "Frites", "parTaille": { "normal": "frites-moyennes", "maxi": "frites-grandes" } },
+        { "id": "gaufrette", "nom": "Gaufrette Fries", "parTaille": { "normal": "gaufrette-moyenne", "maxi": "gaufrette-grande" } },
+        { "id": "onion-rings", "nom": "Onion Rings", "parTaille": { "normal": "onion-rings-6", "maxi": "onion-rings-9" } }
+      ]
+    },
+    {
+      "id": "boisson",
+      "nom": "Boisson",
+      "obligatoire": true,
+      "options": [
+        { "id": "coca-cola", "nom": "Coca-Cola", "parTaille": { "normal": "coca-cola-40", "maxi": "coca-cola-50" } },
+        { "id": "coca-zero", "nom": "Coca-Cola Zéro Sucres", "parTaille": { "normal": "coca-zero-40", "maxi": "coca-zero-50" } },
+        { "id": "fanta-zero", "nom": "Fanta sans sucres", "parTaille": { "normal": "fanta-zero-40", "maxi": "fanta-zero-50" } },
+        { "id": "sprite-zero", "nom": "Sprite sans sucres", "parTaille": { "normal": "sprite-zero-40", "maxi": "sprite-zero-50" } },
+        { "id": "oasis", "nom": "Oasis Tropical", "parTaille": { "normal": "oasis-40", "maxi": "oasis-50" } },
+        { "id": "fuze-tea", "nom": "Fuze Tea Pêche Hibiscus", "parTaille": { "normal": "fuze-tea-40", "maxi": "fuze-tea-50" } },
+        { "id": "vittel", "nom": "Vittel", "parTaille": { "normal": "vittel-50", "maxi": "vittel-50" } }
+      ]
+    },
+    {
+      "id": "sauce",
+      "nom": "Sauces",
+      "obligatoire": false,
+      "multiple": true,
+      "options": [
+        { "id": "sauce-ketchup", "produit": "sauce-ketchup" },
+        { "id": "sauce-frites", "produit": "sauce-frites" },
+        { "id": "sauce-barbecue", "produit": "sauce-barbecue" },
+        { "id": "sauce-1954", "produit": "sauce-1954" },
+        { "id": "sauce-spicy-andalouse", "produit": "sauce-spicy-andalouse" },
+        { "id": "sauce-moutarde-miel", "produit": "sauce-moutarde-miel" },
+        { "id": "sauce-creamy-ranch", "produit": "sauce-creamy-ranch" },
+        { "id": "sauce-chili-cheese", "produit": "sauce-chili-cheese" },
+        { "id": "sauce-smoky-bacon", "produit": "sauce-smoky-bacon" },
+        { "id": "sauce-cheddar-xxl", "produit": "sauce-cheddar-xxl" }
+      ]
+    },
+    {
+      "id": "dessert",
+      "nom": "Dessert",
+      "obligatoire": false,
+      "options": [
+        { "id": "king-sundae-chocolat", "produit": "king-sundae-chocolat" },
+        { "id": "king-sundae-caramel", "produit": "king-sundae-caramel" },
+        { "id": "king-sundae-vanille", "produit": "king-sundae-vanille" },
+        { "id": "king-fusion-nutella", "produit": "king-fusion-nutella" },
+        { "id": "king-fusion-snickers", "produit": "king-fusion-snickers" },
+        { "id": "king-fusion-lotus", "produit": "king-fusion-lotus" },
+        { "id": "king-fusion-praline", "produit": "king-fusion-praline" }
+      ]
+    }
+  ]
+}

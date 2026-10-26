@@ -1,0 +1,512 @@
+{
+  "id": "quick",
+  "nom": "Quick",
+  "pays": "FR",
+  "indicatif": true,
+  "source": {
+    "description": "Valeurs indicatives issues de la base collaborative FatSecret (Quick ne publie pas de valeurs nutritionnelles en ligne)",
+    "url": "https://www.fatsecret.fr/",
+    "releve_le": "2026-10-26"
+  },
+  "tailles": [
+    {
+      "id": "normal",
+      "nom": "Menu",
+      "description": "Accompagnement moyen + boisson 40 cl"
+    },
+    {
+      "id": "maxi",
+      "nom": "Maxi",
+      "description": "Grand accompagnement + boisson 50 cl"
+    }
+  ],
+  "categories": [
+    {
+      "id": "boeuf",
+      "nom": "Bœuf"
+    },
+    {
+      "id": "poulet",
+      "nom": "Poulet"
+    },
+    {
+      "id": "poisson",
+      "nom": "Poisson"
+    },
+    {
+      "id": "veggie",
+      "nom": "Veggie"
+    }
+  ],
+  "produits": {
+    "giant": {
+      "nom": "Giant",
+      "kcal": 535,
+      "proteines": 25,
+      "glucides": 24.5,
+      "lipides": 37.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/giant/1-sandwich"
+    },
+    "mega-giant": {
+      "nom": "Méga Giant",
+      "kcal": 894,
+      "proteines": 47,
+      "glucides": 39,
+      "lipides": 60.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/m%C3%A9ga-giant/1-portion"
+    },
+    "supreme-bacon": {
+      "nom": "Suprême Bacon",
+      "kcal": 899,
+      "proteines": 47.3,
+      "glucides": 53.7,
+      "lipides": 55.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/supr%C3%AAme-bacon/1-portion"
+    },
+    "supreme-classiq": {
+      "nom": "Suprême ClassiQ",
+      "kcal": 834,
+      "proteines": 49.1,
+      "glucides": 48,
+      "lipides": 48.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/supr%C3%AAme-classiq/1-sandwich"
+    },
+    "long-bacon": {
+      "nom": "Long Bacon",
+      "kcal": 572,
+      "proteines": 32.3,
+      "glucides": 40.3,
+      "lipides": 32.5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/long-bacon/1-burger"
+    },
+    "quick-n-toast": {
+      "nom": "Quick N'Toast",
+      "kcal": 651,
+      "proteines": 35.4,
+      "glucides": 42.7,
+      "lipides": 37.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/quick-n-toast/1-burger"
+    },
+    "double-cheese": {
+      "nom": "Double Cheese",
+      "kcal": 413,
+      "proteines": 25.2,
+      "glucides": 27,
+      "lipides": 22.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/double-cheese/1-portion"
+    },
+    "cheeseburger": {
+      "nom": "Cheeseburger",
+      "kcal": 298,
+      "proteines": 16.1,
+      "glucides": 28,
+      "lipides": 13.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/cheeseburger/1-portion"
+    },
+    "giant-max-chicken": {
+      "nom": "Giant Max Chicken",
+      "kcal": 678,
+      "proteines": 26.2,
+      "glucides": 56.1,
+      "lipides": 38.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/giant-max-chicken/1-portion"
+    },
+    "supreme-spicy-chicken": {
+      "nom": "Suprême Spicy Chicken",
+      "kcal": 761,
+      "proteines": 29.9,
+      "glucides": 73,
+      "lipides": 38.1,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/supr%C3%AAme-spicy-chicken/1-sandwich"
+    },
+    "long-chicken": {
+      "nom": "Long Chicken",
+      "kcal": 591,
+      "proteines": 22.4,
+      "glucides": 28,
+      "lipides": 34.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/long-chicken/1-portion"
+    },
+    "chicken-dips-7": {
+      "nom": "Chicken Dips (7)",
+      "kcal": 280,
+      "proteines": 18.5,
+      "glucides": 21.4,
+      "lipides": 12.6,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/chicken-dips-(7)/7-dips"
+    },
+    "long-fish": {
+      "nom": "Long Fish",
+      "kcal": 555,
+      "proteines": 24.1,
+      "glucides": 25,
+      "lipides": 30.8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/long-fish/1-portion"
+    },
+    "wrap-giant-veggie": {
+      "nom": "Wrap Giant Veggie",
+      "kcal": 506,
+      "proteines": 16.1,
+      "glucides": 35,
+      "lipides": 32.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/wrap-giant-veggi/1-wrap"
+    },
+    "frites-moyenne": {
+      "nom": "Moyenne frite",
+      "kcal": 296,
+      "proteines": 3.7,
+      "glucides": 39,
+      "lipides": 13.2,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/moyenne-frite/1-portion"
+    },
+    "frites-grande": {
+      "nom": "Grande frite",
+      "kcal": 405,
+      "proteines": 4.9,
+      "glucides": 54.5,
+      "lipides": 18.7,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/grande-frite/1-portion"
+    },
+    "rustique-moyenne": {
+      "nom": "Rustique moyenne",
+      "kcal": 255,
+      "proteines": 4.1,
+      "glucides": 35.2,
+      "lipides": 10.5,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/rustique-moyenne/1-portion"
+    },
+    "rustique-grande": {
+      "nom": "Grande rustique",
+      "kcal": 384,
+      "proteines": 6.7,
+      "glucides": 48,
+      "lipides": 16.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/grande-rustique/1-portion"
+    },
+    "coca-cola-40": {
+      "nom": "Coca-Cola 40 cl",
+      "kcal": 168,
+      "proteines": 0,
+      "glucides": 42,
+      "lipides": 0,
+      "url": null,
+      "note": "Valeur Coca-Cola standard (fiche officielle burgerking.fr)",
+      "url_ref": "https://www.burgerking.fr/produit/coca-cola"
+    },
+    "coca-cola-50": {
+      "nom": "Coca-Cola 50 cl",
+      "kcal": 210,
+      "proteines": 0,
+      "glucides": 53,
+      "lipides": 0,
+      "url": null,
+      "note": "Valeur Coca-Cola standard (fiche officielle burgerking.fr)",
+      "url_ref": "https://www.burgerking.fr/produit/grand-coca"
+    },
+    "coca-zero-40": {
+      "nom": "Coca-Cola Zéro 40 cl",
+      "kcal": 1,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "url": null,
+      "note": "Valeur Coca-Cola standard (fiche officielle burgerking.fr)",
+      "url_ref": "https://www.burgerking.fr/produit/moyen-coca-zero"
+    },
+    "coca-zero-50": {
+      "nom": "Coca-Cola Zéro 50 cl",
+      "kcal": 2,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "url": null,
+      "note": "Valeur Coca-Cola standard (fiche officielle burgerking.fr)",
+      "url_ref": "https://www.burgerking.fr/produit/grand-coca-zero"
+    },
+    "eau-50": {
+      "nom": "Eau 50 cl",
+      "kcal": 0,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "url": null
+    },
+    "sauce-fromage-blanc": {
+      "nom": "Sauce Fromage Blanc Ciboulette",
+      "kcal": 76,
+      "proteines": 0.7,
+      "glucides": 4,
+      "lipides": 6.4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/sauce-fromage-blanc-ciboulette/1-portion"
+    },
+    "churros-5": {
+      "nom": "Churros (5)",
+      "kcal": 266,
+      "proteines": 5,
+      "glucides": 38,
+      "lipides": 9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/churros-(5)/1-portion"
+    },
+    "cookie": {
+      "nom": "Cookie",
+      "kcal": 290,
+      "proteines": 4.4,
+      "glucides": 37.2,
+      "lipides": 13.8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/cookie/1-portion"
+    },
+    "softy-caramel": {
+      "nom": "Softy Caramel",
+      "kcal": 226,
+      "proteines": 4,
+      "glucides": 36,
+      "lipides": 7,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/softy-caramel/1-portion"
+    },
+    "softy-chocolat": {
+      "nom": "Softy Chocolat",
+      "kcal": 232,
+      "proteines": 4,
+      "glucides": 35,
+      "lipides": 8,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/softy-chocolat/1-portion"
+    },
+    "mix-mania-snickers": {
+      "nom": "Mix Mania Snickers",
+      "kcal": 364,
+      "proteines": 7.1,
+      "glucides": 52.7,
+      "lipides": 15.3,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/mix-mania-snickers/1-glace"
+    },
+    "mix-mania-maltesers": {
+      "nom": "Mix Mania Maltesers",
+      "kcal": 345,
+      "proteines": 4.9,
+      "glucides": 54,
+      "lipides": 10.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/mix-mania-maltesers/1-portion"
+    },
+    "donut-chocolat-noisettes": {
+      "nom": "Donut fourré chocolat noisettes",
+      "kcal": 419,
+      "proteines": 4.8,
+      "glucides": 46.6,
+      "lipides": 18.9,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/donut-fourr%C3%A9-chocolat-noisettes/1-donut"
+    },
+    "fondant-chocolat": {
+      "nom": "Fondant chocolat",
+      "kcal": 284,
+      "proteines": 6,
+      "glucides": 28,
+      "lipides": 16,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/fondant-chocolat/1-portion"
+    },
+    "milkshake-vanille": {
+      "nom": "Milkshake vanille",
+      "kcal": 226,
+      "proteines": 4.8,
+      "glucides": 42.3,
+      "lipides": 4,
+      "url": "https://www.fatsecret.fr/calories-nutrition/quick/milkshake-vanille/1-verre"
+    }
+  },
+  "menus": [
+    {
+      "id": "giant",
+      "nom": "Giant",
+      "categorie": "boeuf",
+      "plat": "giant"
+    },
+    {
+      "id": "mega-giant",
+      "nom": "Méga Giant",
+      "categorie": "boeuf",
+      "plat": "mega-giant"
+    },
+    {
+      "id": "supreme-bacon",
+      "nom": "Suprême Bacon",
+      "categorie": "boeuf",
+      "plat": "supreme-bacon"
+    },
+    {
+      "id": "supreme-classiq",
+      "nom": "Suprême ClassiQ",
+      "categorie": "boeuf",
+      "plat": "supreme-classiq"
+    },
+    {
+      "id": "long-bacon",
+      "nom": "Long Bacon",
+      "categorie": "boeuf",
+      "plat": "long-bacon"
+    },
+    {
+      "id": "quick-n-toast",
+      "nom": "Quick N'Toast",
+      "categorie": "boeuf",
+      "plat": "quick-n-toast"
+    },
+    {
+      "id": "double-cheese",
+      "nom": "Double Cheese",
+      "categorie": "boeuf",
+      "plat": "double-cheese"
+    },
+    {
+      "id": "cheeseburger",
+      "nom": "Cheeseburger",
+      "categorie": "boeuf",
+      "plat": "cheeseburger"
+    },
+    {
+      "id": "giant-max-chicken",
+      "nom": "Giant Max Chicken",
+      "categorie": "poulet",
+      "plat": "giant-max-chicken"
+    },
+    {
+      "id": "supreme-spicy-chicken",
+      "nom": "Suprême Spicy Chicken",
+      "categorie": "poulet",
+      "plat": "supreme-spicy-chicken"
+    },
+    {
+      "id": "long-chicken",
+      "nom": "Long Chicken",
+      "categorie": "poulet",
+      "plat": "long-chicken"
+    },
+    {
+      "id": "chicken-dips-7",
+      "nom": "Chicken Dips (7)",
+      "categorie": "poulet",
+      "plat": "chicken-dips-7"
+    },
+    {
+      "id": "long-fish",
+      "nom": "Long Fish",
+      "categorie": "poisson",
+      "plat": "long-fish"
+    },
+    {
+      "id": "wrap-giant-veggie",
+      "nom": "Wrap Giant Veggie",
+      "categorie": "veggie",
+      "plat": "wrap-giant-veggie"
+    }
+  ],
+  "etapes": [
+    {
+      "id": "accompagnement",
+      "nom": "Accompagnement",
+      "obligatoire": true,
+      "options": [
+        {
+          "id": "frites",
+          "nom": "Frites",
+          "parTaille": {
+            "normal": "frites-moyenne",
+            "maxi": "frites-grande"
+          }
+        },
+        {
+          "id": "rustiques",
+          "nom": "Rustiques",
+          "parTaille": {
+            "normal": "rustique-moyenne",
+            "maxi": "rustique-grande"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boisson",
+      "nom": "Boisson",
+      "obligatoire": true,
+      "options": [
+        {
+          "id": "coca-cola",
+          "nom": "Coca-Cola",
+          "parTaille": {
+            "normal": "coca-cola-40",
+            "maxi": "coca-cola-50"
+          }
+        },
+        {
+          "id": "coca-zero",
+          "nom": "Coca-Cola Zéro",
+          "parTaille": {
+            "normal": "coca-zero-40",
+            "maxi": "coca-zero-50"
+          }
+        },
+        {
+          "id": "eau",
+          "nom": "Eau",
+          "parTaille": {
+            "normal": "eau-50",
+            "maxi": "eau-50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sauce",
+      "nom": "Sauces",
+      "obligatoire": false,
+      "multiple": true,
+      "options": [
+        {
+          "id": "sauce-fromage-blanc",
+          "produit": "sauce-fromage-blanc"
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "nom": "Dessert",
+      "obligatoire": false,
+      "options": [
+        {
+          "id": "churros-5",
+          "produit": "churros-5"
+        },
+        {
+          "id": "cookie",
+          "produit": "cookie"
+        },
+        {
+          "id": "softy-caramel",
+          "produit": "softy-caramel"
+        },
+        {
+          "id": "softy-chocolat",
+          "produit": "softy-chocolat"
+        },
+        {
+          "id": "mix-mania-snickers",
+          "produit": "mix-mania-snickers"
+        },
+        {
+          "id": "mix-mania-maltesers",
+          "produit": "mix-mania-maltesers"
+        },
+        {
+          "id": "donut-chocolat-noisettes",
+          "produit": "donut-chocolat-noisettes"
+        },
+        {
+          "id": "fondant-chocolat",
+          "produit": "fondant-chocolat"
+        },
+        {
+          "id": "milkshake-vanille",
+          "produit": "milkshake-vanille"
+        }
+      ]
+    }
+  ]
+}
