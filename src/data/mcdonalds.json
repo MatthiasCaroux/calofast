@@ -1,0 +1,896 @@
+{
+  "id": "mcdonalds",
+  "nom": "McDonald's",
+  "pays": "FR",
+  "source": {
+    "description": "Fiches produits officielles mcdonalds.fr (valeurs par portion)",
+    "url": "https://www.mcdonalds.fr/nos-produits",
+    "releve_le": "2026-10-26"
+  },
+  "tailles": [
+    {
+      "id": "normal",
+      "nom": "Best Of",
+      "description": "Accompagnement moyen + boisson 40 cl"
+    },
+    {
+      "id": "maxi",
+      "nom": "Maxi Best Of",
+      "description": "Grand accompagnement + boisson 50 cl"
+    }
+  ],
+  "categories": [
+    {
+      "id": "boeuf",
+      "nom": "Bœuf"
+    },
+    {
+      "id": "poulet",
+      "nom": "Poulet"
+    },
+    {
+      "id": "poisson",
+      "nom": "Poisson"
+    },
+    {
+      "id": "veggie",
+      "nom": "Veggie"
+    }
+  ],
+  "produits": {
+    "big-mac": {
+      "nom": "Big Mac",
+      "kcal": 530,
+      "proteines": 27,
+      "glucides": 42,
+      "lipides": 27,
+      "sucres": 7.8,
+      "sel": 2.3,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/big-mac"
+    },
+    "280-original": {
+      "nom": "280 Original",
+      "kcal": 772,
+      "proteines": 44,
+      "glucides": 55,
+      "lipides": 41,
+      "sucres": 6.3,
+      "sel": 1.3,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/280-original"
+    },
+    "royal-cheese": {
+      "nom": "Royal Cheese",
+      "kcal": 525,
+      "proteines": 31,
+      "glucides": 39,
+      "lipides": 27,
+      "sucres": 10,
+      "sel": 2.5,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/royalcheese"
+    },
+    "royal-deluxe": {
+      "nom": "Royal Deluxe",
+      "kcal": 549,
+      "proteines": 30,
+      "glucides": 34,
+      "lipides": 32,
+      "sucres": 7.6,
+      "sel": 2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/royal-deluxe"
+    },
+    "royal-bacon": {
+      "nom": "Royal Bacon",
+      "kcal": 492,
+      "proteines": 30,
+      "glucides": 38,
+      "lipides": 24,
+      "sucres": 9.3,
+      "sel": 2.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/royalbacon"
+    },
+    "big-tasty-1": {
+      "nom": "Big Tasty 1 steak",
+      "kcal": 706,
+      "proteines": 37,
+      "glucides": 46,
+      "lipides": 41,
+      "sucres": 9.4,
+      "sel": 2.8,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/big-tasty-1-viande"
+    },
+    "big-tasty-2": {
+      "nom": "Big Tasty 2 steaks",
+      "kcal": 961,
+      "proteines": 58,
+      "glucides": 46,
+      "lipides": 60,
+      "sucres": 9.4,
+      "sel": 3.3,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/big-tasty-2-viandes"
+    },
+    "mcextreme-1": {
+      "nom": "McExtreme 1 steak",
+      "kcal": 852,
+      "proteines": 45,
+      "glucides": 43,
+      "lipides": 55,
+      "sucres": 8.7,
+      "sel": 2.9,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcextreme-1-steak-hache"
+    },
+    "mcextreme-2": {
+      "nom": "McExtreme 2 steaks",
+      "kcal": 1185,
+      "proteines": 72,
+      "glucides": 43,
+      "lipides": 80,
+      "sucres": 8.7,
+      "sel": 3.5,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcextreme-2-steaks-haches"
+    },
+    "mcextreme-jalapeno-1": {
+      "nom": "McExtreme Ultra Cheddar Jalapeño 1 steak",
+      "kcal": 822,
+      "proteines": 48,
+      "glucides": 46,
+      "lipides": 49,
+      "sucres": 7.5,
+      "sel": 3.7,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcextreme-ultra-cheddar-jalapeno-1v"
+    },
+    "mcextreme-jalapeno-2": {
+      "nom": "McExtreme Ultra Cheddar Jalapeño 2 steaks",
+      "kcal": 1155,
+      "proteines": 75,
+      "glucides": 46,
+      "lipides": 74,
+      "sucres": 7.5,
+      "sel": 4.4,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcextreme-ultra-cheddar-jalapeno-2v"
+    },
+    "double-cheese-bacon": {
+      "nom": "Double Cheese Bacon",
+      "kcal": 456,
+      "proteines": 28,
+      "glucides": 31,
+      "lipides": 24,
+      "sucres": 8.2,
+      "sel": 2.3,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/double-cheese-bacon"
+    },
+    "double-cheeseburger": {
+      "nom": "Double Cheeseburger",
+      "kcal": 442,
+      "proteines": 27,
+      "glucides": 31,
+      "lipides": 23,
+      "sucres": 8,
+      "sel": 2.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/double-cheese"
+    },
+    "cheeseburger": {
+      "nom": "Cheeseburger",
+      "kcal": 300,
+      "proteines": 16,
+      "glucides": 30,
+      "lipides": 13,
+      "sucres": 7.4,
+      "sel": 1.5,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/cheeseburger"
+    },
+    "hamburger": {
+      "nom": "Hamburger",
+      "kcal": 253,
+      "proteines": 13,
+      "glucides": 29,
+      "lipides": 8.9,
+      "sucres": 6.6,
+      "sel": 1.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/hamburger"
+    },
+    "nagi-bao-boeuf": {
+      "nom": "Nagi Bao Bœuf",
+      "kcal": 491,
+      "proteines": 26,
+      "glucides": 35,
+      "lipides": 27,
+      "sucres": 5.3,
+      "sel": 2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/nagi-bao-boeuf"
+    },
+    "nagi-bao-poulet": {
+      "nom": "Nagi Bao Poulet",
+      "kcal": 518,
+      "proteines": 25,
+      "glucides": 49,
+      "lipides": 24,
+      "sucres": 5.8,
+      "sel": 2.5,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/nagi-bao-poulet"
+    },
+    "nagi-bao-poisson": {
+      "nom": "Nagi Bao Poisson",
+      "kcal": 437,
+      "proteines": 19,
+      "glucides": 44,
+      "lipides": 20,
+      "sucres": 5.2,
+      "sel": 2.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/nagi-bao-poisson"
+    },
+    "mcchicken": {
+      "nom": "McChicken",
+      "kcal": 434,
+      "proteines": 19,
+      "glucides": 45,
+      "lipides": 19,
+      "sucres": 6.3,
+      "sel": 2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcchicken"
+    },
+    "cbo": {
+      "nom": "CBO",
+      "kcal": 659,
+      "proteines": 27,
+      "glucides": 57,
+      "lipides": 35,
+      "sucres": 8.8,
+      "sel": 2.8,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/cbo"
+    },
+    "mcwrap-new-york": {
+      "nom": "McWrap New York & Poulet Bacon",
+      "kcal": 552,
+      "proteines": 22,
+      "glucides": 56,
+      "lipides": 26,
+      "sucres": 4.1,
+      "sel": 2.8,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcwrap-poulet-bacon-et-new-york"
+    },
+    "mcnuggets-6": {
+      "nom": "Chicken McNuggets (6)",
+      "kcal": 261,
+      "proteines": 15,
+      "glucides": 19.5,
+      "lipides": 13.5,
+      "sucres": 0.5,
+      "sel": 1.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/chicken-mcnuggetstm",
+      "calcule": "Valeurs de la portion de 4 multipliées par 1,5"
+    },
+    "mcnuggets-9": {
+      "nom": "Chicken McNuggets (9)",
+      "kcal": 392,
+      "proteines": 22.5,
+      "glucides": 29.3,
+      "lipides": 20.3,
+      "sucres": 0.7,
+      "sel": 1.7,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/chicken-mcnuggetstm",
+      "calcule": "Valeurs de la portion de 4 multipliées par 2,25"
+    },
+    "mcnuggets-20": {
+      "nom": "Boîte de 20 Chicken McNuggets",
+      "kcal": 872,
+      "proteines": 51,
+      "glucides": 65,
+      "lipides": 45,
+      "sucres": 1.4,
+      "sel": 3.8,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/20-chicken-mcnuggets"
+    },
+    "filet-o-fish": {
+      "nom": "Filet-O-Fish",
+      "kcal": 329,
+      "proteines": 15,
+      "glucides": 36,
+      "lipides": 14,
+      "sucres": 5.1,
+      "sel": 1.4,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/filet-o-fish"
+    },
+    "mcfish": {
+      "nom": "McFish",
+      "kcal": 284,
+      "proteines": 14,
+      "glucides": 38,
+      "lipides": 7.9,
+      "sucres": 7.8,
+      "sel": 1.4,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcfish"
+    },
+    "fish-new-york": {
+      "nom": "Fish New York",
+      "kcal": 460,
+      "proteines": 19,
+      "glucides": 45,
+      "lipides": 22,
+      "sucres": 7,
+      "sel": 2.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/fish-new-york"
+    },
+    "double-fish-new-york": {
+      "nom": "Double Fish New York",
+      "kcal": 608,
+      "proteines": 28,
+      "glucides": 55,
+      "lipides": 30,
+      "sucres": 7.1,
+      "sel": 2.9,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/double-fish-new-york"
+    },
+    "mcwrap-veggie": {
+      "nom": "McWrap Veggie",
+      "kcal": 539,
+      "proteines": 18,
+      "glucides": 49,
+      "lipides": 29,
+      "sucres": 4.4,
+      "sel": 2.5,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-burgers/mcwrap-veggie"
+    },
+    "frites-petite": {
+      "nom": "Petite portion de frites",
+      "kcal": 231,
+      "proteines": 2.7,
+      "glucides": 29,
+      "lipides": 11,
+      "sucres": 0.2,
+      "sel": 0.38,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/petite-frite"
+    },
+    "frites-moyenne": {
+      "nom": "Moyenne portion de frites",
+      "kcal": 328,
+      "proteines": 3.9,
+      "glucides": 41,
+      "lipides": 16,
+      "sucres": 0.3,
+      "sel": 0.53,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/frite"
+    },
+    "frites-grande": {
+      "nom": "Grande portion de frites",
+      "kcal": 434,
+      "proteines": 5.1,
+      "glucides": 54,
+      "lipides": 21,
+      "sucres": 0.5,
+      "sel": 0.71,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/grande-frite"
+    },
+    "potatoes-moyenne": {
+      "nom": "Moyenne portion de Deluxe Potatoes",
+      "kcal": 227,
+      "proteines": 2.8,
+      "glucides": 26,
+      "lipides": 12,
+      "sucres": 0,
+      "sel": 0.72,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/deluxe-potatoes"
+    },
+    "potatoes-grande": {
+      "nom": "Grande portion de Deluxe Potatoes",
+      "kcal": 330,
+      "proteines": 4,
+      "glucides": 37,
+      "lipides": 17,
+      "sucres": 0,
+      "sel": 1,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/grande-deluxe-potatoes"
+    },
+    "coca-cola-40": {
+      "nom": "Coca-Cola 40 cl",
+      "kcal": 162,
+      "proteines": 0,
+      "glucides": 41,
+      "lipides": 0,
+      "sucres": 41,
+      "sel": 0,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/coca-cola",
+      "note": "Valeur « par produit » du site, correspondant au format 40 cl (vérifié avec la valeur pour 100 g)"
+    },
+    "coca-cola-50": {
+      "nom": "Coca-Cola 50 cl",
+      "kcal": 202,
+      "proteines": 0,
+      "glucides": 51.2,
+      "lipides": 0,
+      "sucres": 51.2,
+      "sel": 0.0,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/coca-cola",
+      "calcule": "Calculé : valeur 40 cl multipliée par 1,25"
+    },
+    "coca-sans-sucres-40": {
+      "nom": "Coca-Cola Sans Sucres 40 cl",
+      "kcal": 2,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "sucres": 0,
+      "sel": 0.11,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/coca-cola-sans-sucres",
+      "note": "Valeur « par produit » du site, correspondant au format 40 cl (vérifié avec la valeur pour 100 g)"
+    },
+    "coca-sans-sucres-50": {
+      "nom": "Coca-Cola Sans Sucres 50 cl",
+      "kcal": 2,
+      "proteines": 0,
+      "glucides": 0.0,
+      "lipides": 0,
+      "sucres": 0.0,
+      "sel": 0.14,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/coca-cola-sans-sucres",
+      "calcule": "Calculé : valeur 40 cl multipliée par 1,25"
+    },
+    "fanta-sans-sucres-40": {
+      "nom": "Fanta Orange Sans Sucres 40 cl",
+      "kcal": 8,
+      "proteines": 0,
+      "glucides": 1.2,
+      "lipides": 0,
+      "sucres": 1.2,
+      "sel": 0.24,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/fanta-gout-original-sans-sucres",
+      "note": "Valeur « par produit » du site, correspondant au format 40 cl (vérifié avec la valeur pour 100 g)"
+    },
+    "fanta-sans-sucres-50": {
+      "nom": "Fanta Orange Sans Sucres 50 cl",
+      "kcal": 10,
+      "proteines": 0,
+      "glucides": 1.5,
+      "lipides": 0,
+      "sucres": 1.5,
+      "sel": 0.3,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/fanta-gout-original-sans-sucres",
+      "calcule": "Calculé : valeur 40 cl multipliée par 1,25"
+    },
+    "sprite-sans-sucres-40": {
+      "nom": "Sprite Sans Sucres 40 cl",
+      "kcal": 4,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "sucres": 0,
+      "sel": 0.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/moyen-sprite-sans-sucres",
+      "note": "Valeur « par produit » du site, correspondant au format 40 cl (vérifié avec la valeur pour 100 g)"
+    },
+    "sprite-sans-sucres-50": {
+      "nom": "Sprite Sans Sucres 50 cl",
+      "kcal": 5,
+      "proteines": 0,
+      "glucides": 0.0,
+      "lipides": 0,
+      "sucres": 0.0,
+      "sel": 0.25,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/moyen-sprite-sans-sucres",
+      "calcule": "Calculé : valeur 40 cl multipliée par 1,25"
+    },
+    "oasis-sans-sucres-40": {
+      "nom": "Oasis Tropical Sans Sucres 40 cl",
+      "kcal": 19,
+      "proteines": 0,
+      "glucides": 4.8,
+      "lipides": 0,
+      "sucres": 4.4,
+      "sel": 0.04,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/moyen-oasis-tropical",
+      "note": "Valeur « par produit » du site, correspondant au format 40 cl (vérifié avec la valeur pour 100 g)"
+    },
+    "oasis-sans-sucres-50": {
+      "nom": "Oasis Tropical Sans Sucres 50 cl",
+      "kcal": 24,
+      "proteines": 0,
+      "glucides": 6.0,
+      "lipides": 0,
+      "sucres": 5.5,
+      "sel": 0.05,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/moyen-oasis-tropical",
+      "calcule": "Calculé : valeur 40 cl multipliée par 1,25"
+    },
+    "fuze-tea-sans-sucres-40": {
+      "nom": "Fuze Tea Pêche Sans Sucres 40 cl",
+      "kcal": 4,
+      "proteines": 0,
+      "glucides": 0.4,
+      "lipides": 0,
+      "sucres": 0,
+      "sel": 0.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/fuze-tea-saveur-peche-sans-sucres",
+      "note": "Valeur « par produit » du site, correspondant au format 40 cl (vérifié avec la valeur pour 100 g)"
+    },
+    "fuze-tea-sans-sucres-50": {
+      "nom": "Fuze Tea Pêche Sans Sucres 50 cl",
+      "kcal": 5,
+      "proteines": 0,
+      "glucides": 0.5,
+      "lipides": 0,
+      "sucres": 0.0,
+      "sel": 0.25,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/fuze-tea-saveur-peche-sans-sucres",
+      "calcule": "Calculé : valeur 40 cl multipliée par 1,25"
+    },
+    "eau-40": {
+      "nom": "Eau plate 40 cl",
+      "kcal": 0,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "sucres": 0,
+      "sel": 0,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/eau-plate"
+    },
+    "eau-50": {
+      "nom": "Eau plate 50 cl",
+      "kcal": 0,
+      "proteines": 0,
+      "glucides": 0,
+      "lipides": 0,
+      "sucres": 0,
+      "sel": 0,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/eau-plate"
+    },
+    "tropicana-20": {
+      "nom": "Tropicana Orange 20 cl",
+      "kcal": 80,
+      "proteines": 1.6,
+      "glucides": 19,
+      "lipides": 0,
+      "sucres": 17,
+      "sel": 0,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-boissons/tropicana"
+    },
+    "sauce-ketchup": {
+      "nom": "Ketchup",
+      "kcal": 13,
+      "proteines": 0.2,
+      "glucides": 2.9,
+      "lipides": 0,
+      "sucres": 2.4,
+      "sel": 0.2,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/ketchup"
+    },
+    "sauce-pommes-frites": {
+      "nom": "Sauce Pommes-Frites",
+      "kcal": 27,
+      "proteines": 0.1,
+      "glucides": 1.7,
+      "lipides": 2.2,
+      "sucres": 1.1,
+      "sel": 0.3,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/sauce-pommes-frites"
+    },
+    "sauce-creamy-deluxe": {
+      "nom": "Sauce Creamy Deluxe",
+      "kcal": 79,
+      "proteines": 0.2,
+      "glucides": 0.8,
+      "lipides": 8.2,
+      "sucres": 0.3,
+      "sel": 0.27,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/sauce-creamy-deluxe"
+    },
+    "sauce-chinoise": {
+      "nom": "Sauce Chinoise",
+      "kcal": 52,
+      "proteines": 0.2,
+      "glucides": 12,
+      "lipides": 0.3,
+      "sucres": 9.9,
+      "sel": 0.33,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/sauce-chinoise"
+    },
+    "sauce-barbecue": {
+      "nom": "Sauce Classic Barbecue",
+      "kcal": 48,
+      "proteines": 0.2,
+      "glucides": 11,
+      "lipides": 0.3,
+      "sucres": 9.8,
+      "sel": 0.52,
+      "url": "https://www.mcdonalds.fr/nos-produits/nos-frites-et-sauces/sauce-classic-barbecue"
+    }
+  },
+  "menus": [
+    {
+      "id": "big-mac",
+      "nom": "Big Mac",
+      "categorie": "boeuf",
+      "plat": "big-mac"
+    },
+    {
+      "id": "280-original",
+      "nom": "280 Original",
+      "categorie": "boeuf",
+      "plat": "280-original"
+    },
+    {
+      "id": "royal-cheese",
+      "nom": "Royal Cheese",
+      "categorie": "boeuf",
+      "plat": "royal-cheese"
+    },
+    {
+      "id": "royal-deluxe",
+      "nom": "Royal Deluxe",
+      "categorie": "boeuf",
+      "plat": "royal-deluxe"
+    },
+    {
+      "id": "royal-bacon",
+      "nom": "Royal Bacon",
+      "categorie": "boeuf",
+      "plat": "royal-bacon"
+    },
+    {
+      "id": "big-tasty-1",
+      "nom": "Big Tasty 1 steak",
+      "categorie": "boeuf",
+      "plat": "big-tasty-1"
+    },
+    {
+      "id": "big-tasty-2",
+      "nom": "Big Tasty 2 steaks",
+      "categorie": "boeuf",
+      "plat": "big-tasty-2"
+    },
+    {
+      "id": "mcextreme-1",
+      "nom": "McExtreme 1 steak",
+      "categorie": "boeuf",
+      "plat": "mcextreme-1"
+    },
+    {
+      "id": "mcextreme-2",
+      "nom": "McExtreme 2 steaks",
+      "categorie": "boeuf",
+      "plat": "mcextreme-2"
+    },
+    {
+      "id": "mcextreme-jalapeno-1",
+      "nom": "McExtreme Ultra Cheddar Jalapeño 1 steak",
+      "categorie": "boeuf",
+      "plat": "mcextreme-jalapeno-1"
+    },
+    {
+      "id": "mcextreme-jalapeno-2",
+      "nom": "McExtreme Ultra Cheddar Jalapeño 2 steaks",
+      "categorie": "boeuf",
+      "plat": "mcextreme-jalapeno-2"
+    },
+    {
+      "id": "double-cheese-bacon",
+      "nom": "Double Cheese Bacon",
+      "categorie": "boeuf",
+      "plat": "double-cheese-bacon"
+    },
+    {
+      "id": "double-cheeseburger",
+      "nom": "Double Cheeseburger",
+      "categorie": "boeuf",
+      "plat": "double-cheeseburger"
+    },
+    {
+      "id": "cheeseburger",
+      "nom": "Cheeseburger",
+      "categorie": "boeuf",
+      "plat": "cheeseburger"
+    },
+    {
+      "id": "hamburger",
+      "nom": "Hamburger",
+      "categorie": "boeuf",
+      "plat": "hamburger"
+    },
+    {
+      "id": "nagi-bao-boeuf",
+      "nom": "Nagi Bao Bœuf",
+      "categorie": "boeuf",
+      "plat": "nagi-bao-boeuf"
+    },
+    {
+      "id": "mcchicken",
+      "nom": "McChicken",
+      "categorie": "poulet",
+      "plat": "mcchicken"
+    },
+    {
+      "id": "cbo",
+      "nom": "CBO",
+      "categorie": "poulet",
+      "plat": "cbo"
+    },
+    {
+      "id": "nagi-bao-poulet",
+      "nom": "Nagi Bao Poulet",
+      "categorie": "poulet",
+      "plat": "nagi-bao-poulet"
+    },
+    {
+      "id": "mcwrap-new-york",
+      "nom": "McWrap New York & Poulet Bacon",
+      "categorie": "poulet",
+      "plat": "mcwrap-new-york"
+    },
+    {
+      "id": "mcnuggets-6",
+      "nom": "Chicken McNuggets (6)",
+      "categorie": "poulet",
+      "plat": "mcnuggets-6"
+    },
+    {
+      "id": "mcnuggets-9",
+      "nom": "Chicken McNuggets (9)",
+      "categorie": "poulet",
+      "plat": "mcnuggets-9"
+    },
+    {
+      "id": "filet-o-fish",
+      "nom": "Filet-O-Fish",
+      "categorie": "poisson",
+      "plat": "filet-o-fish"
+    },
+    {
+      "id": "mcfish",
+      "nom": "McFish",
+      "categorie": "poisson",
+      "plat": "mcfish"
+    },
+    {
+      "id": "fish-new-york",
+      "nom": "Fish New York",
+      "categorie": "poisson",
+      "plat": "fish-new-york"
+    },
+    {
+      "id": "double-fish-new-york",
+      "nom": "Double Fish New York",
+      "categorie": "poisson",
+      "plat": "double-fish-new-york"
+    },
+    {
+      "id": "nagi-bao-poisson",
+      "nom": "Nagi Bao Poisson",
+      "categorie": "poisson",
+      "plat": "nagi-bao-poisson"
+    },
+    {
+      "id": "mcwrap-veggie",
+      "nom": "McWrap Veggie",
+      "categorie": "veggie",
+      "plat": "mcwrap-veggie"
+    }
+  ],
+  "etapes": [
+    {
+      "id": "accompagnement",
+      "nom": "Accompagnement",
+      "obligatoire": true,
+      "options": [
+        {
+          "id": "frites",
+          "nom": "Frites",
+          "parTaille": {
+            "normal": "frites-moyenne",
+            "maxi": "frites-grande"
+          }
+        },
+        {
+          "id": "potatoes",
+          "nom": "Deluxe Potatoes",
+          "parTaille": {
+            "normal": "potatoes-moyenne",
+            "maxi": "potatoes-grande"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boisson",
+      "nom": "Boisson",
+      "obligatoire": true,
+      "options": [
+        {
+          "id": "coca-cola",
+          "nom": "Coca-Cola",
+          "parTaille": {
+            "normal": "coca-cola-40",
+            "maxi": "coca-cola-50"
+          }
+        },
+        {
+          "id": "coca-sans-sucres",
+          "nom": "Coca-Cola Sans Sucres",
+          "parTaille": {
+            "normal": "coca-sans-sucres-40",
+            "maxi": "coca-sans-sucres-50"
+          }
+        },
+        {
+          "id": "fanta-sans-sucres",
+          "nom": "Fanta Orange Sans Sucres",
+          "parTaille": {
+            "normal": "fanta-sans-sucres-40",
+            "maxi": "fanta-sans-sucres-50"
+          }
+        },
+        {
+          "id": "sprite-sans-sucres",
+          "nom": "Sprite Sans Sucres",
+          "parTaille": {
+            "normal": "sprite-sans-sucres-40",
+            "maxi": "sprite-sans-sucres-50"
+          }
+        },
+        {
+          "id": "oasis-sans-sucres",
+          "nom": "Oasis Tropical Sans Sucres",
+          "parTaille": {
+            "normal": "oasis-sans-sucres-40",
+            "maxi": "oasis-sans-sucres-50"
+          }
+        },
+        {
+          "id": "fuze-tea-sans-sucres",
+          "nom": "Fuze Tea Pêche Sans Sucres",
+          "parTaille": {
+            "normal": "fuze-tea-sans-sucres-40",
+            "maxi": "fuze-tea-sans-sucres-50"
+          }
+        },
+        {
+          "id": "eau",
+          "nom": "Eau plate",
+          "parTaille": {
+            "normal": "eau-40",
+            "maxi": "eau-50"
+          }
+        },
+        {
+          "id": "tropicana",
+          "nom": "Tropicana Orange 20 cl",
+          "parTaille": {
+            "normal": "tropicana-20",
+            "maxi": "tropicana-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sauce",
+      "nom": "Sauces",
+      "obligatoire": false,
+      "multiple": true,
+      "options": [
+        {
+          "id": "sauce-ketchup",
+          "produit": "sauce-ketchup"
+        },
+        {
+          "id": "sauce-pommes-frites",
+          "produit": "sauce-pommes-frites"
+        },
+        {
+          "id": "sauce-creamy-deluxe",
+          "produit": "sauce-creamy-deluxe"
+        },
+        {
+          "id": "sauce-chinoise",
+          "produit": "sauce-chinoise"
+        },
+        {
+          "id": "sauce-barbecue",
+          "produit": "sauce-barbecue"
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "nom": "Dessert",
+      "obligatoire": false,
+      "options": []
+    }
+  ]
+}
